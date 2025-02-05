@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Yo I like you vro type shit (Yieeee corny) 💝",
+    pageTitle: "HI SHEBBBB!!💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Swinerte bako or napilitan ka lang kasi ganun ko prinogram yung website?",
-        message: "Hoped ya like my gift!! Idk how to code yung response shit so kung ano man sagot mo, pls dms nalang natin so ik HUHUHUHU. (If you have no answer, that's fine toooo!!)",
-        emojis: "💖🤗💝❤️💕"  // These will bounce around
+        title: "Hoped ya like my gift!! Idk how to code yung response shit so kung ano man sagot mo, pls dms nalang natin so ik HUHUHUHU. (If you have no answer, that's fine toooo!!)",
+        message: "HAPPY VALENTINESSSS!!",
+        emojis: "💖🤗✨"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -69,7 +69,7 @@ const CONFIG = {
     animations: {
         floatDuration: "10s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "30px",          // How far hearts move sideways (30-70px recommended)
-        bounceSpeed: "0.3s",            // Speed of bouncing animations (0.3-0.7s recommended)
+        bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 2.0         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://asset.cloudinary.com/ddzoeh7l2/8ec1d72de97040352b69269c64c2a6b3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/ddzoeh7l2/video/upload/v1738768850/youtube_ok2pqepWTLU_audio_cjrowh.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
