@@ -23,9 +23,9 @@ const CONFIG = {
     questions: {
         first: {
             text: "May I Court you? (Ples, di ako masamang tao fr)",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "K FINEEEEEE"           // Secret hover message
+            yesBtn: "Di Pwede",                                             // Text for "Yes" button
+            noBtn: "Ayoko",                                               // Text for "No" button
+            secretAnswer: "FINEEEEEE"           // Secret hover message
         },
         second: {
             text: "How sure are you?",                          // For the love meter
