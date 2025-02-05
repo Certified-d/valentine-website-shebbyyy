@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Hiiii shebbb!!!",
+    valentineName: "HIIII SHEBBB!!💝",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "HI SHEBBBB!!💝",
+    pageTitle: "GRA NAKAKAHIYA UMAMIN",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
