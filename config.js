@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "I like you, may I get to know you more by courting you? (di ako masamang tao type shit)",                                    // First interaction
+            text: "I like you... may I get to know you more by courting you? (di ako masamang tao type shit)",                                    // First interaction
             yesBtn: "Di Pwede",                                             // Text for "Yes" button
             noBtn: "Ayoko",                                               // Text for "No" button
             secretAnswer: "FINEEEEEE"           // Secret hover message
