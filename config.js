@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "HIIII SHEBBB!!💝",
+    valentineName: "HIIII CRUSHIE!!💝",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "May I Court you? (Ples, di ako masamang tao fr)",                                    // First interaction
+            text: "I really like you, may I get to know you more by courting you? (Ples, di ako masamang tao fr)",                                    // First interaction
             yesBtn: "Di Pwede",                                             // Text for "Yes" button
             noBtn: "Ayoko",                                               // Text for "No" button
             secretAnswer: "FINEEEEEE"           // Secret hover message
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Hoped ya like my gift!! Idk how to code yung response shit so kung ano man sagot mo, pls dms nalang natin so ik HUHUHUHU. (If you have no answer, that's fine toooo!!)",
+        title: "Hope ya liked my gift sheb!! Idk how to code yung response shit so kung ano man sagot mo, pls dms nalang natin so ik HUHUHUHU. (If you have no answer, that's fine toooo!!)",
         message: "HAPPY VALENTINESSSS!!",
         emojis: "💖🤗✨"  // These will bounce around
     },
